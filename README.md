@@ -16,7 +16,7 @@
    6. this will start your local sever, the server address will be displayed in the command prompt of anaconda.
       http://localhost:5555/ will be the server address in most cases.
    7. Upload the file Social_Network_Ads.csv as the training data.
-   8  Upload the file test_data.csv as the test data on the next web page.
+   8. Upload the file test_data.csv as the test data on the next web page.
    
                                             THATS ALL!
                                             PLAY AROUND WITH THE CODE

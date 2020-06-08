@@ -21,4 +21,4 @@
                                             THATS ALL!
                                             PLAY AROUND WITH THE CODE
                                             ADD ANY ML MODELS BY EDITING VIEWS.PY
-                                            ENJOY!
+                                            
